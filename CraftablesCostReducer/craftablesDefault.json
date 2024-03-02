@@ -27,6 +27,14 @@
       ]
     },
     {
+      "Craftable": "PrimalItem_SanguineElixir_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumable_BloodPack_C": 200
+        },
+      ]
+    },
+    {
       "Craftable": "PrimalItemConsumableRespecSoup_C",
       "Ingredients": [
         {
