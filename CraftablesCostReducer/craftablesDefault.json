@@ -25,13 +25,12 @@
           "PrimalItemConsumable_Narcotic_C": 8
         }
       ]
-    },
-    {
+    },{
       "Craftable": "PrimalItem_SanguineElixir_C",
       "Ingredients": [
         {
           "PrimalItemConsumable_BloodPack_C": 200
-        },
+        }
       ]
     },
     {
