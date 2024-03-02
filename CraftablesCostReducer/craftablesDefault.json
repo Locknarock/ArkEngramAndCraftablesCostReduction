@@ -1,0 +1,986 @@
+{
+  "Items": [
+    {
+      "Craftable": "PrimalItemConsumable_Soup_ShadowSteak_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumable_CookedPrimeMeat_C": 3
+        },
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Veggie_Rockarrot_C": 1
+        },
+        {
+          "PrimalItemConsumable_Veggie_Savoroot_C": 1
+        },
+        {
+          "PrimalItemResource_RareMushroom_C": 2
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 20
+        },
+        {
+          "PrimalItemConsumable_Narcotic_C": 8
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumableRespecSoup_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Narcotic_C": 72
+        },
+        {
+          "PrimalItemConsumable_Stimulant_C": 72
+        },
+        {
+          "PrimalItemResource_RareMushroom_C": 20
+        },
+        {
+          "PrimalItemResource_RareFlower_C": 20
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 200
+        },
+        {
+          "PrimalItemConsumable_CookedPrimeMeat_C": 24
+        }
+      ]
+    },
+    {
+      "Craftable": "",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Stimulant_C": 8
+        },
+        {
+          "PrimalItemConsumable_Veggie_Longrass_C": 1
+        },
+        {
+          "PrimalItemConsumable_Veggie_Citronal_C": 1
+        },
+        {
+          "PrimalItemResource_RareFlower_C": 2
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 20
+        },
+        {
+          "PrimalItemConsumable_RawPrimeMeat_C": 3
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_TheHorn_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_Horn_C": 5
+        },
+        {
+          "PrimalItemConsumable_Veggie_Rockarrot_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Savoroot_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Longrass_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Citronal_C": 2
+        },
+        {
+          "PrimalItemResource_BlackPearl_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Soup_CalienSoup_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Stimulant_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Citronal_C": 5
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 20
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 20
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Soup_EnduroStew_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_CookedMeat_C": 9
+        },
+        {
+          "PrimalItemConsumable_Stimulant_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Rockarrot_C": 5
+        },
+        {
+          "PrimalItemConsumable_Veggie_Savoroot_C": 5
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_StaminaSoup_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Stimulant_C": 2
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 20
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Soup_FocalChili_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_CookedMeat_C": 9
+        },
+        {
+          "PrimalItemConsumable_Veggie_Citronal_C": 5
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 20
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 20
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 20
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Soup_FriaCurry_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Narcotic_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Rockarrot_C": 5
+        },
+        {
+          "PrimalItemConsumable_Veggie_Longrass_C": 5
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 20
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_HealSoup_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Narcotic_C": 2
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 20
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Soup_LazarusChowder_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_CookedMeat_C": 9
+        },
+        {
+          "PrimalItemConsumable_Narcotic_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Savoroot_C": 5
+        },
+        {
+          "PrimalItemConsumable_Veggie_Longrass_C": 5
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_SweetVeggieCake_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Honey_C": 2
+        },
+        {
+          "PrimalItemConsumable_Stimulant_C": 4
+        },
+        {
+          "PrimalItemConsumable_Veggie_Rockarrot_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Savoroot_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Longrass_C": 2
+        },
+        {
+          "PrimalItemResource_Sap_C": 4
+        },
+        {
+          "PrimalItemResource_Fibers_C": 25
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_CactusBuffSoup_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_CactusSap_C": 30
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 10
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 10
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemResource_Beer_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_Thatch_C": 40
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 50
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Soup_MushroomSoup_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_Gas_C": 3
+        },
+        {
+          "PrimalItemResource_CommonMushroom_C": 5
+        },
+        {
+          "PrimalItemConsumable_Mushroom_Aquatic_C": 5
+        },
+        {
+          "PrimalItemConsumable_Mushroom_Ascerbic_C": 5
+        },
+        {
+          "PrimalItemConsumable_Mushroom_Auric_C": 5
+        },
+        {
+          "PrimalItemResource_Sap_C": 3
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumableSoap_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_Polymer_C": 3
+        },
+        {
+          "PrimalItemResource_Oil_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_CookedMeat_Jerky_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 3
+        },
+        {
+          "PrimalItemConsumable_CookedMeat_C": 1
+        },
+        {
+          "PrimalItemResource_Oil_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_CookedPrimeMeat_Jerky_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_Oil_C": 1
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 3
+        },
+        {
+          "PrimalItemConsumable_CookedPrimeMeat_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemResource_Gasoline_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_Oil_C": 6
+        },
+        {
+          "PrimalItemResource_Hide_C": 5
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Kibble_Base_XSmall_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_CookedMeat_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 5
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 10
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 10
+        },
+        {
+          "PrimalItemResource_Fibers_C": 5
+        },
+        {
+          "PrimalItemConsumable_Egg_XSmall_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Kibble_Base_Small_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_Fibers_C": 5
+        },
+        {
+          "PrimalItemConsumable_Veggie_Rockarrot_C": 2
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 5
+        },
+        {
+          "PrimalItemConsumable_Egg_Small_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Kibble_Base_Medium_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Veggie_Savoroot_C": 2
+        },
+        {
+          "PrimalItemConsumable_Veggie_Longrass_C": 2
+        },
+        {
+          "PrimalItemConsumable_Egg_Medium_C": 1
+        },
+        {
+          "PrimalItemConsumable_CookedMeat_Jerky_C": 1
+        },
+        {
+          "PrimalItemResource_Fibers_C": 5
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Kibble_Base_Large_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Veggie_Citronal_C": 2
+        },
+        {
+          "PrimalItemResource_RareMushroom_C": 2
+        },
+        {
+          "PrimalItemConsumable_CookedPrimeMeat_Jerky_C": 1
+        },
+        {
+          "PrimalItemResource_Sap_C": 1
+        },
+        {
+          "PrimalItemResource_Fibers_C": 5
+        },
+        {
+          "PrimalItemConsumable_Egg_Large_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Kibble_Base_XLarge_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemResource_RareFlower_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        },
+        {
+          "PrimalItemConsumable_Soup_FocalChili_C": 1
+        },
+        {
+          "PrimalItemResource_Fibers_C": 5
+        },
+        {
+          "PrimalItemConsumable_Egg_XtraLarge_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemConsumable_Kibble_Base_Special_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Honey_C": 1
+        },
+        {
+          "PrimalItemConsumable_Soup_LazarusChowder_C": 1
+        },
+        {
+          "PrimalItemConsumable_Egg_Special_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 10
+        },
+        {
+          "PrimalItemResource_Fibers_C": 5
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Black_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 15
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Blue_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 15
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Brick_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 12
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 6
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Brown_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 9
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 6
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 3
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Cantaloupe_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Stimberry_C": 4
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Cyan_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 6
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 12
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Forest_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 4
+        },
+        {
+          "PrimalItemResource_Gunpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Green_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 9
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 9
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_ActuallyMagenta_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 9
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 9
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Mud_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 4
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 6
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Navy_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 12
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 6
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Olive_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 12
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 6
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Orange_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 9
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 9
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Parchment_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 12
+        },
+        {
+          "PrimalItemConsumable_Berry_Stimberry_C": 6
+        },
+        {
+          "PrimalItemResource_Gunpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Pink_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 12
+        },
+        {
+          "PrimalItemConsumable_Berry_Stimberry_C": 6
+        },
+        {
+          "PrimalItemResource_Gunpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Purple_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 8
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 9
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Red_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 15
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Royalty_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 4
+        },
+        {
+          "PrimalItemResource_Gunpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Silver_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 6
+        },
+        {
+          "PrimalItemConsumable_Berry_Stimberry_C": 12
+        },
+        {
+          "PrimalItemResource_Gunpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Sky_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 12
+        },
+        {
+          "PrimalItemConsumable_Berry_Stimberry_C": 6
+        },
+        {
+          "PrimalItemResource_Gunpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Slate_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 12
+        },
+        {
+          "PrimalItemConsumable_Berry_Stimberry_C": 6
+        },
+        {
+          "PrimalItemResource_Sparkpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Tan_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 4
+        },
+        {
+          "PrimalItemConsumable_Berry_Azulberry_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Stimberry_C": 6
+        },
+        {
+          "PrimalItemResource_Gunpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Tangerine_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Tintoberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 7
+        },
+        {
+          "PrimalItemConsumable_Berry_Narcoberry_C": 4
+        },
+        {
+          "PrimalItemResource_Gunpowder_C": 1
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_White_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Stimberry_C": 15
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    },
+    {
+      "Craftable": "PrimalItemDye_Yellow_C",
+      "Ingredients": [
+        {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Amarberry_C": 15
+        },
+        {
+          "PrimalItemResource_Charcoal_C": 2
+        }
+      ]
+    }
+  ]
+}
