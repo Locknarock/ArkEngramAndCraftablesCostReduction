@@ -1,5 +1,20 @@
 {
   "Items": [
+      {
+      "Craftable": "PrimalItemResource_Beer_C",
+      "Ingredients": [
+         {
+          "PrimalItemResource_Thatch_C": 40
+        },
+                {
+          "PrimalItemConsumableEatable_WaterContainer_C": 1
+        },
+        {
+          "PrimalItemConsumable_Berry_Mejoberry_C": 50
+        }
+       
+      ]
+    },
     {
       "Craftable": "PrimalItemConsumable_Soup_ShadowSteak_C",
       "Ingredients": [
@@ -400,10 +415,7 @@
     {
       "Craftable": "PrimalItemResource_Gasoline_C",
       "Ingredients": [
-        {
-          "PrimalItemConsumableEatable_WaterContainer_C": 1
-        },
-        {
+               {
           "PrimalItemResource_Oil_C": 6
         },
         {
