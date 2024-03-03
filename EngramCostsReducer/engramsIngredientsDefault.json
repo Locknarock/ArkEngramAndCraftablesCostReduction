@@ -4408,7 +4408,7 @@
       "Engram": "PrimalItemAmmo_SimpleShotgunBullet_C",
       "Ingredients": [
         {
-          "PrimalItemResourceGeneric_Curing_C": 3
+          "PrimalItemAmmo_SimpleBullet_C": 3
         },
         {
           "PrimalItemResource_MetalIngot_C": 1
