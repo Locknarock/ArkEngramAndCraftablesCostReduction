@@ -75,7 +75,7 @@
       ]
     },
     {
-      "Craftable": "",
+      "Craftable": "PrimalItemConsumable_Soup_BattleTartare_C",
       "Ingredients": [
         {
           "PrimalItemConsumableEatable_WaterContainer_C": 1
@@ -324,20 +324,7 @@
         }
       ]
     },
-    {
-      "Craftable": "PrimalItemResource_Beer_C",
-      "Ingredients": [
-        {
-          "PrimalItemConsumableEatable_WaterContainer_C": 1
-        },
-        {
-          "PrimalItemResource_Thatch_C": 40
-        },
-        {
-          "PrimalItemConsumable_Berry_Mejoberry_C": 50
-        }
-      ]
-    },
+   
     {
       "Craftable": "PrimalItemConsumable_Soup_MushroomSoup_C",
       "Ingredients": [
@@ -381,9 +368,7 @@
     {
       "Craftable": "PrimalItemConsumable_CookedMeat_Jerky_C",
       "Ingredients": [
-        {
-          "PrimalItemConsumableEatable_WaterContainer_C": 1
-        },
+        
         {
           "PrimalItemResource_Sparkpowder_C": 3
         },
@@ -398,9 +383,7 @@
     {
       "Craftable": "PrimalItemConsumable_CookedPrimeMeat_Jerky_C",
       "Ingredients": [
-        {
-          "PrimalItemConsumableEatable_WaterContainer_C": 1
-        },
+       
         {
           "PrimalItemResource_Oil_C": 1
         },
